@@ -1,4 +1,4 @@
-const question = [
+const questions = [
   {
     "questionId": 1,
     "text": "1.\tE received goods from T for display and sale in E's store. E was to turn over to T the proceeds of any sale and return the ones unsold. To document their agreement, E executed a trust receipt in T’s favor covering the goods. When E failed to turn over the proceeds from his sale of the goods or return the ones unsold despite demand, he was charged in court for estafa. E moved to dismiss on the ground that his liability is only civil. Is he correct? (2011 MCQ Questions) A)  No, since he committed fraud when he promised to pay for the goods and did not. B)  No, since his breach of the trust receipt agreement subjects him to both civil and criminal liability for estafa. C)  Yes, since E cannot be charged with estafa over goods covered a trust receipt. D) Yes, since it was merely a consignment sale and the buyer could not pay."
