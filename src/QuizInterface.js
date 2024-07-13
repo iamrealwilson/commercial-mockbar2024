@@ -5,7 +5,7 @@ import axios from 'axios';
 import ReactQuill from 'react-quill';
 import 'react-quill/dist/quill.snow.css'; // import styles
 import './RichTextEditor.css'; // for custom styles
-import questions from './Crim.js';
+import questions from './Commercial.js';
 
 const QuizInterface = () => {
 
