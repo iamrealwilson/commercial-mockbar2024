@@ -46,7 +46,7 @@ const modules = {
   const totalQuestions = 372;
 
 	const getQuestionById = (data, id) => {
-	  const filtered = data.filter(item => item.questionId == id);
+	  const filtered = data.filter(item => item.questionId === id);
 	  return filtered.length > 0 ? filtered[0].text : null;
 	}
 
